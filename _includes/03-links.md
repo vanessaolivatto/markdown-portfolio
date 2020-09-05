@@ -1,2 +1,2 @@
-[Github_Profile](https://github.com/vanessaolivatto)
-[Linkedin_Profile](https://www.linkedin.com/in/brischi/)
+- [Github Profile](https://github.com/vanessaolivatto)
+- [LinkedIn Profile](https://www.linkedin.com/in/brischi/)

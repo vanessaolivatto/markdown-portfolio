@@ -61,6 +61,7 @@
 
 ### Samsung Electronics Research and Development Institute 
 - Artificial Intelligence Researcher since August 2020 at Campinas/SP - Brazil 
+
 ### Robert Bosch GmbH
 - Innovation & Technology Engineer from Mar. 2018 to Jul. 2020 at Campinas/SP - Brazil
   - Development of machine learning algorithms for Industry 4.0,  Mobility and Consumer Goods solutions. Work with an agile team on development and evaluation of software and hardware prototypes as well as support into turning them new product features;

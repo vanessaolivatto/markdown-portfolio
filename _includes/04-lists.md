@@ -30,11 +30,11 @@
 ### Programming 
 - **Expert:**
   - Matlab
+- **Advanced:**
   - Python
+  - SQL
 - **Intermediate:**
   - C
-  - SQL
-- **Novice:**
   - C++
   - R
   - Clojure
@@ -64,24 +64,13 @@
 
 ### Robert Bosch GmbH
 - Innovation & Technology Engineer from Mar. 2018 to Jul. 2020 at Campinas/SP - Brazil
-  - Development of machine learning algorithms for Industry 4.0,  Mobility and Consumer Goods solutions. Work with an agile team on development and evaluation of software and hardware prototypes as well as support into turning them new product features;
-  - Actively involved on product development, collecting feedback from customers and supporting on project scope design;
-  - Technical consulting on new business development and digital transformation; 
-  - Develop and maintain strong relationship with key decision makers, industry consultants, research institutes, and external ecosystem partners.
 
 ### Eldorado Research Institute
-- Research & Development Researcher from Nov. 2014 to Feb. 2018 at Campinas/SP - Brazil
-  - Development of digital communication system models for digital transceivers;
-  - Development of low complexity algorithms for hardware design of receivers compliant with Digital Video Broadcasting standard (DVB-S2), and transceivers compliant with IEEE 802.15.4g standard for Smart Metering applications;
-  - Development of several communication models on Software Defined Radio (SDR) platform.
-
+- Research & Development Fellow from Nov. 2014 to Feb. 2018 at Campinas/SP - Brazil
 
 ### École supérieure d'électricité (Supélec)
 - Researcher from Jan. 2014 to Jul. 2014 at Gif-sur-Yvette - France
-  - Decoding schemes for non-binary LDPC and turbo codes.
-
+ 
 ### MOTOROLA Mobility
 - Intern from Jan. 2013 to Dec. 2013 at Jaguariúna/SP - Brazil
-  - Support on feature development, bug-fix and software validation across Latam (Latin America) carriers.
-  - Development of machine learning algorithms for automated diagnosis of modem failures.
-
+  
